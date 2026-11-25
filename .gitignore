@@ -1,0 +1,9 @@
+# Ambiente virtual e caches Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Modelo serializado (gerado automaticamente ao executar o notebook)
+artefatos/*.joblib
